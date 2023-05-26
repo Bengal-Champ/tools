@@ -40,6 +40,8 @@ Angle grinders are used for metalwork and fabrication such as grinding down weld
 21. Disconnect power before changing discs.
 22. Never use a cut-off wheel for grinding or a grinding disc for cutting.
 23. Dispose of any disc that has been dropped. Cracked or weakened discs can shatter in use.
+24. Try to place your body like this picture. </br>
+![alt text](https://github.com/Nabilphysics/tools/blob/main/image/angleGrinderPosition.png)
 
 
 
