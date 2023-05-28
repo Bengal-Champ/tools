@@ -1,6 +1,7 @@
 # Drill Press/Bench Drill
-Please read about various Parts of the drill press from here https://www.finepowertools.com/drills/parts-of-a-drill-press/
-Resource: https://www.lsu.edu/eng/mie/cuf/ammf/safetyrules/DrillPress.php
+Please read about various Parts of the drill press from here </br> 
+https://www.finepowertools.com/drills/parts-of-a-drill-press/ </br>
+Safety Resource: https://www.lsu.edu/eng/mie/cuf/ammf/safetyrules/DrillPress.php
 ## Safety Recommendation:
 1. Wear safety glasses, jeans pent, mask, and hand gloves. Proper leather boots and earplugs are recommended.
 2. Make sure worktable and if any vice attached to it is secured. Worktable is usually moveable, and if you move it to the upper portion of the drill press column, make sure you hold it during lowering to avoid a sudden fall down.
