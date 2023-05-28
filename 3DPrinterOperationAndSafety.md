@@ -15,12 +15,7 @@ These may result in electrocution and overheating.
 As you can already begin to see, some of these factors can be majorly mitigated, while others are intrinsic to the printer’s operation and require a different approach.
 
 ### Chemical Vapors:
-Heating of certain thermoplastic filament can generate toxic vapors and vapors with high 
-volatile organic compounds (VOCs). There are a variety of printing materials available for use with 3D printers, 
-each with its own inherent hazards. The two most commonly used materials are Polylactic Acid (PLA) and 
-Acrylonitrile Butadiene Styrene (ABS). Other printing materials used include metallic powders, which are 
-generally used to fabricate tools and machinery parts. Please review product Safety Data Sheets (SDSs) for 
-material specific safety information before using anything in a 3D printer. 
+The heating of certain thermoplastic filaments can generate toxic vapors and vapors with high volatile organic compounds (VOCs). There are a variety of printing materials available for use with 3D printers, each with its own inherent hazards. The two most commonly used materials are Polylactic Acid (PLA) and Acrylonitrile Butadiene Styrene (ABS). Other printing materials used include metallic powders, which are generally used to fabricate tools and machinery parts. Please review product Safety Data Sheets (SDSs) for material-specific safety information before using anything in a 3D printer.
 
 ### Eating in 3D Printing Room:
 Eating, drinking, applying cosmetics, chewing gum, or handling contact lenses in rooms that contain 3D 
