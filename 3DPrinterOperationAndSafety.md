@@ -7,7 +7,7 @@ must warn users of the hazards.
 ### Fire hazards: 
 These apply mainly to FDM printers, and can be caused by an electrical fault or a heating-related failure. </br>
 ### Airborne particulates: 
-Including volatile organic compounds (VOCs), these are released during printing both by FDM and resin printing. Anyone exposed (including children or pets) can suffer from long-term health problems.
+Volatile organic compounds (VOCs) are released during printing both by FDM and resin printing. Anyone exposed (including children or pets) can suffer from long-term health problems.
 ### Mechanical risks: 
 These include, for example, cutting yourself when removing supports or getting your finger pinched or burned by the nozzle.
 ### Electrical risks: 
