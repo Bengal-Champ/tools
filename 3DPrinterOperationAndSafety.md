@@ -21,4 +21,12 @@ The heating of certain thermoplastic filaments can generate toxic vapors and vap
 Eating, drinking, applying cosmetics, chewing gum, or handling contact lenses in rooms that contain 3D 
 printing operations must be prohibited. Users must wash their hands thoroughly after working with 3D 
 printers
+
+### Prevent 3D printer from Damaging
+Make sure the 3D printer bed is properly leveled and the extruder is not scratching the bed. Scratching the bed with an extruder may damage the extruder as well as the bed. </br>
+
+Do not overtight any screws or bolts. 
+
+
+
 Source: all3dp.com & https://ehs.yale.edu/sites/default/files/files/3D-printer.pdf
